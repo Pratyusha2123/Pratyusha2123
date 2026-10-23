@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there! 👋 I'm Pratyusha
 
-<!--
-**Pratyusha2123/Pratyusha2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | 🌱 Lifelong Learner | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology, programming, and creating projects that solve real-world problems. I'm continuously developing my technical skills and exploring new technologies to grow as a developer.
+
+### 🧰 Tech Stack
+
+* 💻 Languages: Java, JavaScript
+* 🌐 Frontend: HTML, CSS
+* 🔧 Tools: Git, GitHub, VS Code
+* 🧠 Concepts: Data Structures & Algorithms
+
+### 🌱 Currently
+
+* Learning new programming concepts.
+* Practicing problem-solving.
+* Building projects to strengthen my development skills.
+
+### ⚡ My Motto
+
+**"Code. Learn. Build. Repeat."** 🚀
+
