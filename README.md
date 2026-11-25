@@ -19,10 +19,10 @@
 
 ---
 
-## 🎓 Education
+## 🎓 Academic Background
 
-- MCA – Centurion University of Technology and Management
-- B.Sc. Computer Science – MSCB University
+- **Master of Computer Applications (MCA)** – Centurion University of Technology and Management
+- **Bachelor of Science (B.Sc.) in Computer Science**
 
 ---
 
